@@ -1,3 +1,4 @@
 flask
 requests
+gevent>=1.4
 gunicorn[gevent]
